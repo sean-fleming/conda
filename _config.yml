@@ -1,3 +1,5 @@
 theme: jekyll-theme-architect
 title: Welcome to Conda-land
 description: project by Sean
+header_pages:
+ - README.md
